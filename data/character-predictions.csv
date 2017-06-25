@@ -1119,7 +1119,7 @@ S.No,actual,pred,alive,plod,name,title,male,culture,dateOfBirth,DateoFdeath,moth
 1118,1,0,0.402,0.598,Jasper Arryn,Eyrie,1,,,,,,,House Arryn,,0,0,0,1,0,,,,,0,1,,1,1,0,0.0434782608695652,1
 1119,1,1,0.825,0.175,Jasper Redfort,Ser,0,Valemen,,,,,,House Redfort,,0,0,0,1,1,,,,,0,1,,0,0,0,0.0234113712374581,1
 1120,1,1,0.726,0.274,Jeren,,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0,0,0.020066889632107,1
-1121,0,0,0.223,0.777,Jeyne Arryn,Eyrie,0,Valeman,,134,,,,House Arryn,,0,0,0,0,0,,,,,0,1,,0,0,0,0.0334448160535117,0
+1121,0,0,0.223,0.777,Jeyne Arryn,Eyrie,0,Valemen,,134,,,,House Arryn,,0,0,0,0,0,,,,,0,1,,0,0,0,0.0334448160535117,0
 1122,1,0,0.404,0.596,Jeyne Beesbury,,0,,,,,,,House Beesbury,Rhaegar Frey,0,1,1,1,0,,,,0,1,0,,0,0,0,0.060200668896321,1
 1123,1,0,0.06,0.94,Jeyne Darry,,1,Westeros,,,,,,House Darry,Cleos Frey,0,0,1,1,0,,,,0,1,0,,0,0,0,0.0769230769230769,1
 1124,1,1,0.904,0.096,Jeyne Goodbrook,,0,,293,,,,,House Goodbrook,,0,1,1,1,0,,,,,0,0,12,0,0,0,0.0635451505016722,1
